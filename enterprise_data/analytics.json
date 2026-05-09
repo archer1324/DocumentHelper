@@ -1,0 +1,29 @@
+{
+  "queries": [
+    {
+      "query": "i want to know what is buffer flow",
+      "confidence": 0.0,
+      "intent": "fact_query",
+      "ts": "2026-03-23T06:31:14.325409"
+    },
+    {
+      "query": "what is AI ethics",
+      "confidence": 0.8916520570048166,
+      "intent": "fact_query",
+      "ts": "2026-03-23T06:53:44.008937"
+    },
+    {
+      "query": "what is malware",
+      "confidence": 0.0,
+      "intent": "fact_query",
+      "ts": "2026-03-29T12:54:27.542132"
+    },
+    {
+      "query": "what is AI ethics",
+      "confidence": 0.9968559342400795,
+      "intent": "fact_query",
+      "ts": "2026-03-29T12:55:21.190068"
+    }
+  ],
+  "feedback": []
+}

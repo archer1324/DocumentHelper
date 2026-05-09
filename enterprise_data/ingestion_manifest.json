@@ -1,0 +1,49 @@
+{
+  "files": {
+    "buffer-overflow.pdf": {
+      "hash": "a1ef7a1d50fe08aa67a844744f670bf306d4a5327cfabdc9cadde43c3aa020a8",
+      "updated_at": "2026-03-23T06:45:03.254643"
+    },
+    "malware-AI.pdf": {
+      "hash": "357549be02e638285ffda0eee87b052e3f03580b1600a4e8b80bd073373b0690",
+      "updated_at": "2026-03-23T06:45:03.793780"
+    },
+    "reverse-engineering.pdf": {
+      "hash": "4304f937538439114cb23b3c380b675d02d4f467eeec4a8b071674f3bc7d0122",
+      "updated_at": "2026-03-23T06:45:04.038143"
+    },
+    "software-fuzzing.pdf": {
+      "hash": "6acd4835d04af80687db1a72283e66ee6f9b057352b8b30654d97de678d7ac5e",
+      "updated_at": "2026-03-23T06:45:04.269597"
+    },
+    "1. Introduction to AI Ethics.pdf": {
+      "hash": "831c6fe023a9a790e021c94758f9fda11ea033a5466f0940db6bff2ff3e78916",
+      "updated_at": "2026-03-23T06:45:02.415766"
+    },
+    "2. Philosophical Foundations of AI Ethics.pdf": {
+      "hash": "2473a754ca3cee5ad4e4404b6024de1081053d27ba2dc190afcdabd72a3bdb37",
+      "updated_at": "2026-03-23T06:45:02.674530"
+    },
+    "3. Bias and Fairness.pdf": {
+      "hash": "9edf4a678ba6ed86a64164ab20f1302f186d4c231c3bda204ca520ae43fd7236",
+      "updated_at": "2026-03-23T06:45:02.762952"
+    },
+    "4. Privacy and Data Protection.pdf": {
+      "hash": "ca04e1773c2e3725183c82b016b4eef41ee13a8fb279a595ec314919003b9437",
+      "updated_at": "2026-03-23T06:45:02.856829"
+    },
+    "5. Transparency and Explainability.pdf": {
+      "hash": "e6d71f0072695a2e4c1d648269e6ff8f1e5885e93bd918b9385f11929ba5490a",
+      "updated_at": "2026-03-23T06:45:02.934922"
+    },
+    "6. Accountability and Responsibility.pdf": {
+      "hash": "e2d59a74ea7605e9567a22b47ba4972ba1d779ba5d93b25453d6656e25b2648e",
+      "updated_at": "2026-03-23T06:45:02.998954"
+    },
+    "7. Social Impact.pdf": {
+      "hash": "c5c3255c03f1f439ce1fab7a62234ee04f7c630632d7adb66e0bad1a9d9723a5",
+      "updated_at": "2026-03-23T06:45:03.090167"
+    }
+  },
+  "updated_at": "2026-03-23T06:45:11.581563"
+}
