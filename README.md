@@ -1,6 +1,7 @@
 # Enterprise ReAct Documentation Assistant
 
 注：本项目参考https://github.com/emarco177/langchain-course课程
+
 企业级智能文档助手，基于 ReAct (Reasoning + Acting) 推理范式构建，面向企业内部知识问答、流程咨询、故障排查、培训赋能等核心业务场景。
 
 本项目目标是解决以下常见问题：
